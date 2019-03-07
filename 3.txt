@@ -2,7 +2,11 @@ jjiiuijj
 kkk
 
 master
+<<<<<<< HEAD
 kk
 
 dev
 
+=======
+kk
+>>>>>>> c475301... kk
